@@ -24,7 +24,7 @@ SO THAT I can reliably retrieve them for later use
 
 You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
 
-* [Deployed to Heroku]()
+* [Deployed to Heroku](https://text-editor-darimo4ka.herokuapp.com)
 
 * [ GitHub URL](https://github.com/Darimo4ka/Text-editor)
 
